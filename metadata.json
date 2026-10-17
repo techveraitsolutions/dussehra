@@ -1,0 +1,6 @@
+{
+  "name": "Dussehra Lucky Winner",
+  "description": "Grand 3D lottery draw countdown and announcement for Dussehra Lucky Winner on 20 October 2026 at 10:00 PM IST.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
